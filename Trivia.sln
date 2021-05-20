@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia.Core.Tests", "Trivia.Core.Tests\Trivia.Core.Tests.csproj", "{5F69060A-2108-4FF4-840D-C60B081D6F8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trivia.Core", "Trivia.Core\Trivia.Core.csproj", "{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F69060A-2108-4FF4-840D-C60B081D6F8D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5F69060A-2108-4FF4-840D-C60B081D6F8D}.Debug|x86.Build.0 = Debug|Any CPU
+		{5F69060A-2108-4FF4-840D-C60B081D6F8D}.Release|x86.ActiveCfg = Release|Any CPU
+		{5F69060A-2108-4FF4-840D-C60B081D6F8D}.Release|x86.Build.0 = Release|Any CPU
+		{5F69060A-2108-4FF4-840D-C60B081D6F8D}.Debug|x86.Deploy.0 = Debug|Any CPU
+		{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}.Debug|x86.Build.0 = Debug|Any CPU
+		{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}.Release|x86.ActiveCfg = Release|Any CPU
+		{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}.Release|x86.Build.0 = Release|Any CPU
+		{4BF0A370-666F-4A20-B74A-D79B2C1C9E5D}.Debug|x86.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
